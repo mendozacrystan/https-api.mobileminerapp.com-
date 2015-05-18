@@ -33,3 +33,17 @@
         "HardwareErrorsPercent":0.7685
     }
 ]
+
+[
+    {
+        "Id":76,
+        "CommandText":"STOP",
+        "CommandDate":"2013-08-03T06:24:08.203"
+    }
+]
+
+{
+    "Id":76,
+    "CommandText":"STOP",
+    "CommandDate":"2013-08-03T06:24:08.203"
+}
